@@ -1,3 +1,5 @@
+*FUNDAMENTALS   *MATHEMATICS
+
 TASK:
 Some numbers have funny properties. For example:
 
