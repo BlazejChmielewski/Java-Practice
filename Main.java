@@ -10,17 +10,5 @@ public class Main {
 
         if(sum%n == 0) System.out.println(sum/n); else System.out.println(-1);
 
-
-
-
-
-
-
-
-
-        //        int[] elements = String.valueOf(n).chars().map(Character::getNumericValue).toArray();
-//        System.out.println(elements[0]);
-//        int sum = IntStream.range(0, elements.length).map(x-> (int)Math.pow(elements[x], x+p)).sum();
-//        System.out.println(sum);
     }
 }
