@@ -7,3 +7,4 @@ Branches with tasks:
 1.  MyTask#1  *ALGORITHM 
 2.  Playing with digits *FUNDAMENTALS   *MATHEMATICS
 3.  Narcistic Numbers *ALGORITHM
+4.  FindTheOddNumber  *ALGORITHM
